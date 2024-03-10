@@ -22,6 +22,7 @@ After it completes training the model (~5 mins), it will save the fine-tuned mod
 
 5. Test the models.
    To test the text classifier, comment all lines in the backend.py main function except for the line that loads the text classifier model and the three lines at the bottom.
+   
    ![image](https://github.com/AnikaGoel02/EconoFactCheck/assets/87030632/8b77b611-6f91-4c66-b680-77da0ba2cd80)
    
    You should get an output that looks something like this:
